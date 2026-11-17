@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.vie",
+  "repo": "NDesumeur/neodex-plugin-vie-phone",
+  "version": "1.0.0",
+  "sha256": "2553acbfb9bbb65c532760c3f0efe6488fa80107febfba833897c0997d773f71",
+  "approvedAt": "2026-11-17T18:40:03.634Z",
+  "neobase": ">=4.0.0",
+  "signature": "crJUMy8ZijyrIUwvz8xQKwO6L8KqahspZpwLMZYHRMghJwO98g+SbVDY1QTvoNvsdwVnDh6pjeKiZ+dZNG04Cg=="
+}
